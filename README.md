@@ -1,4 +1,4 @@
-<h2 align="center">Arcane Client Launcher Archive</h2>
+<h2 align="center">Arcane Client Launcher</h2>
 
 <p align="center">
     <img src="https://i.imgur.com/e4Au1VM.png" width="150" height="150"/>
