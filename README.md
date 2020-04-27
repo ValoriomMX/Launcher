@@ -16,7 +16,7 @@
 
 **NOTE: You must have Java 64 bit installed or it will not launch.**
 
-**Java 64 bit: https://www.java.com/en/download/manual.jsp**
+**Java 64 bit: https://www.java.com/en/download/manual.jsp** (Windows Offline 64-Bit)
 
 # Credits
 
