@@ -8,7 +8,9 @@
 
 **You may download the launcher here:**
 <br>
-**https://github.com/Arcane-Client/Launcher/releases/download/1.0.3/Arcane.Client.Setup.1.0.3.exe**
+**Setup: https://github.com/Arcane-Client/Launcher/releases/download/1.0.3/Arcane.Client.Setup.1.0.3.exe**
+<br>
+**No-Setup: https://github.com/Arcane-Client/Launcher/releases/download/1.0.3/Arcane.Client.1.0.3.exe**
 
 # Information
 
