@@ -6,7 +6,7 @@
 
 # Information
 
-**These are the launchers that have been used by Arcane Client, or are currently in use.**
+**This is the place where Arcane Client's launcher updates will be pushed, this is required to run the reskin with anticheat protection.**
 
 **NOTE: You must have Java 64 bit installed or it will not launch.**
 
