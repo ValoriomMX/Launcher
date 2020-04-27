@@ -4,6 +4,10 @@
     <img src="https://i.imgur.com/e4Au1VM.png" width="150" height="150"/>
 </p>
 
+# Download
+
+**You may download the launcher here: https://github.com/Arcane-Client/Launcher/releases/download/1.0.3/Arcane.Client.Setup.1.0.3.exe**
+
 # Information
 
 **This is the place where Arcane Client's launcher updates will be pushed, this is required to run the reskin with anticheat protection.**
