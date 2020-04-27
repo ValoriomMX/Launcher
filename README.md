@@ -8,9 +8,9 @@
 
 **These are the launchers that have been used by Arcane Client, or are currently in use.**
 
-NOTE: You must have Java 64 bit installed or it will not launch.
+**NOTE: You must have Java 64 bit installed or it will not launch.**
 
-Java 64 bit: https://www.java.com/en/download/manual.jsp
+**Java 64 bit: https://www.java.com/en/download/manual.jsp**
 
 # Credits
 
