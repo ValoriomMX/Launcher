@@ -12,7 +12,7 @@
 
 # Information
 
-**This is the place where Arcane Client's launcher updates will be pushed, this is required to run the reskin with anticheat protection.**
+**This is the place where Arcane Client's launcher updates will be pushed, this is required to run the reskin with the anticheat protection.**
 
 **NOTE: You must have Java 64 bit installed or it will not launch.**
 
