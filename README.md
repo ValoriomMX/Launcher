@@ -9,10 +9,10 @@
 **You may download the launcher here:**
 <br>
 <br>
-**Setup: https://github.com/Aero-Client/Launcher/releases/download/1.0.3/Aero.Client.Setup.1.0.3.exe**
+**Setup: https://github.com/Aero-Client/Launcher/releases/download/1.0.3/Aero.Client.Setup.1.0.4.exe**
 <br>
 <br>
-**No-Setup: https://github.com/Aero-Client/Launcher/releases/download/1.0.3/Aero.Client.1.0.3.exe**
+**No-Setup: https://github.com/Aero-Client/Launcher/releases/download/1.0.3/Aero.Client.1.0.4.exe**
 
 # Information
 
