@@ -16,7 +16,7 @@
 
 # Information
 
-**This is the place where Aero Client's launcher updates will be pushed, this is required to run the Arcane Client reskin with the anticheat protection.**
+**This is the place where Aero Client's launcher updates will be pushed, this is required to run the Aero Client reskin with the anticheat protection.**
 
 **NOTE: You must have Java 64 bit installed or it will not launch.**
 
