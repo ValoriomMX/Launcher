@@ -1,0 +1,11 @@
+.blogtitle {
+    content: "test";
+    color:black;
+    z-index: 99;
+}
+
+.blogcontent {
+    content: "test test test";
+    color:black;
+    z-index: 99;
+}
