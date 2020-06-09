@@ -21,4 +21,4 @@
 
 # Credits
 
-<h4>Aero Client's 3.0 Launcher is the original CheatBreaker Launcher design by CheatBreaker LLC, and FrozenOrb LLC. This launcher's design is from the 2017 version of the CheatBreaker launcher. All code is 100% original, the launcher design is by Jegox and ArcaneCiCi.</h4>
+<h4>All code is 100% original, the launcher design is by Jegox and ArcaneCiCi.</h4>
